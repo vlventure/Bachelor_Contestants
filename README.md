@@ -16,4 +16,3 @@ I answer the following questions:
 11. SEASON: int. The season number. Bachelor and Bachelorette seasons are numbered separately.  
 12. ELIMINATION: string. These columns contain information about whether or not a contestant got a rose on a certain week. An 'R' in the row indicates a contestant got a rose and moved on to the next week. 'R1' in the first week indictes that contestant recieved the 'first impression' rose.  
 13. DATES: string. These columns contain information about whether or not a contestant had a dat on a certain week. The columns contain strings of the form 'D#' where the number indicates the number of people on the date. So, 'D1' means it was a one-on-one date. 
-14. 
