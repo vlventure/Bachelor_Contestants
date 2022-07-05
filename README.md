@@ -1,7 +1,7 @@
 # Bachelor_Contestants
 A look in to the success of bachelor and bachelorette contestants.
 In this project, I used the bachelorette dataset provided by fivethirtyeigth to answer questions about the success of contestants on the tv shows the Bachelor and the Bachelorette.  
-The packages used in this project are pandas for data cleaning and seaborn for data visualization. 
+The packages used in this project are pandas for data cleaning and seaborn for data visualization.   
 I answer the following questions:  
 1. How many people are eliminated on weeks when they have dates?  
 2. How many people are eliminated on weeks when they do not have dates?  
